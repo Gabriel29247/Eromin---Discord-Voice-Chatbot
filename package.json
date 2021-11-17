@@ -1,0 +1,36 @@
+{
+  "name": "eromin",
+  "version": "1.0.0",
+  "description": "voice chatbot by mikeyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discordvoice",
+    "chatbot",
+    "ai"
+  ],
+  "author": "mikeyy#4832",
+  "license": "ISC",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.2",
+    "anime-character-random": "^1.0.10",
+    "axios": "^0.24.0",
+    "discord-menus": "^1.0.8",
+    "discord-reply": "^0.1.2",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^13.3.1",
+    "express": "^4.17.1",
+    "free-translate": "^0.4.0",
+    "iso-639-1": "^2.1.10",
+    "mongoose": "^6.0.13",
+    "node-events": "^0.0.2",
+    "node-schedule": "^2.0.0",
+    "randomcolor": "^0.6.2",
+    "request": "^2.88.2",
+    "topgg-autoposter": "^2.0.0",
+    "voicetext": "^0.0.7"
+  }
+}
